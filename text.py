@@ -3,7 +3,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "text"
 filename = 'input.txt'
 
 # store the result from the txt file
